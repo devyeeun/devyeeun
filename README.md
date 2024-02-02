@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp
@@ -42,7 +43,7 @@
 
 <h3 align="center">👀 Contact 👀</h3>
 <p align="center">
-  <a href="mailto:injin.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yeeunk90@gmail.com"/></a>
+  <a href="mailto:yeeunk90@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yeeunk90@gmail.com"/></a>
 </p>
 <p align="center">
 무언가를 배워 발전한다는 것은 참 재밌고 흥미로운 일이다.🥳
