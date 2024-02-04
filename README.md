@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=8B00FF&height=170&section=header&text=Evolving%20development&fontColor=35E3FC&fontAlignX=45&fontAlignY=65&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&text=Evolving%20development&animation=fadeIn&fontSize=32&fontColor=ffffff&fontAlignY=36)
 
-<h2 align='center'>무언가를 배워 발전한다는 것은 참 재밌고 흥미로운 일이다.🥳</h2>
+<h2 align="center">무언가를 배워 발전한다는 것은 참 재밌고 흥미로운 일이다.🥳</h2>
 <h3 align="center">⭐️main stack or Other Stack(ever used at least once)📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp
