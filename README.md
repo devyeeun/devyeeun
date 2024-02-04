@@ -1,5 +1,14 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ed9d0b,100:f94001&height=180&section=header&text=Evolving%20development&animation=fadeIn&fontSize=32&fontColor=ffffff&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:c6acf6,100:E6B9F7&height=180&section=header&text=Evolving%20development&animation=fadeIn&fontSize=32&fontColor=ffffff&fontAlignY=36)
 
+<p align="center">
+  안녕하세요! <br>
+  프론트엔드 개발자 김예은입니다. <br>
+  계속해서 성장하고 발전하는 것을 좋아합니다 <br>
+  왜? 라는 질문을 계속해서 하고싶습니다
+   <br>
+</p>
+<br/>
+<br/>
 <h2 align="center">무언가를 배워 발전한다는 것은 참 재밌고 흥미로운 일이다.🥳</h2>
 <h3 align="center">⭐️main stack or Other Stack(ever used at least once)📚</h3>
 <p align="center">
@@ -22,9 +31,7 @@
   <br>
 </p>
 
-
-<div>
-</div>
+<br/>
 <h3 align="center">🧘🏻 My Github Stats / Top Langs 👀</h3>
 
 <div style="width: 100%">
@@ -38,7 +45,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devyeeun&show_icons=true&theme=buefy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devyeeun&layout=compact&theme=cobalt)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devyeeun&layout=compact&theme=buefy)
 
 [//]: # (스타일 옵션: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula)
 
@@ -48,9 +55,8 @@
 <p align="center">
   <a href="mailto:yeeunk90@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yeeunk90@gmail.com"/></a>
 </p>
-<p align="center">
+<!-- <p align="center">
 무언가를 배워 발전한다는 것은 참 재밌고 흥미로운 일이다.🥳
-</p>
+</p> -->
 
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=FF00FF&height=170&section=footer)
