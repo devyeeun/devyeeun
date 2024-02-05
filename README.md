@@ -1,13 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:c6acf6,100:E6B9F7&height=180&section=header&text=Evolving%20development&animation=fadeIn&fontSize=32&fontColor=ffffff&fontAlignY=36)
 
 <p align="center">
-  안녕하세요! <br>
-  프론트엔드 개발자 김예은입니다. <br>
   계속해서 성장하고 발전하는 것을 좋아합니다 <br>
   왜? 라는 질문을 계속해서 하고싶습니다
    <br>
 </p>
-<br/>
 <br/>
 <h2 align="center">무언가를 배워 발전한다는 것은 참 재밌고 흥미로운 일이다.🥳</h2>
 <h3 align="center">⭐️main stack or Other Stack(ever used at least once)📚</h3>
